@@ -1,2 +1,2 @@
 # RigManager
-Coming Soon...
+[Coming Soon...](https://rigmanager.dreamsweaver.co)
